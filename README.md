@@ -67,6 +67,9 @@ tab *Documentation*, in the language of the panel.
 
 Mozilla Public License 2.0, see [LICENSE](LICENSE).
 
+Provided as is, without warranty (MPL-2.0, sections 6 and 7). Always check results
+independently before you rely on them.
+
 ## Trademarks
 
 Mecway is a product of Mecway Ltd. Code_Aster is a trademark of EDF. This project is not affiliated with or endorsed by Mecway Ltd or EDF.
